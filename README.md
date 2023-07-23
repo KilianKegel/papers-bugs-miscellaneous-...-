@@ -1,5 +1,4 @@
-# CdePkg blog at <img src="https://pbs.twimg.com/profile_images/759064723392311297/Yst2htM7_400x400.jpg"  width="68" height="68"> **tianocore**
-
+# CdePkg blog at <img src="https://github.com/KilianKegel/pictures/blob/master/uefi-logo.png"  width="68" height="68"> UEFI <img src="https://pbs.twimg.com/profile_images/759064723392311297/Yst2htM7_400x400.jpg"  width="68" height="68"> **tianocore**
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Introduction-of-the-ACPICA-port-to-UEFI)](https://github.com/tianocore/edk2-staging/tree/CdePkg/blogs/2022-01-16#introduction-of-the-acpica-port-to-uefi)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=RedFish-on-CdePkg)](https://github.com/tianocore/edk2-staging/tree/CdePkg/blogs/2021-12-19#redfish-on-cdepkg)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Using-UEFI--and-Standard-C-API-in-shell-applications-creating-MSDOS-Tools-for-UEFI)](https://github.com/tianocore/edk2-staging/tree/CdePkg/blogs/2021-11-28#using-uefi--and-standard-c-api-in-shell-applications-creating-msdos-tools-for-uefi)
