@@ -10,6 +10,6 @@ One day **Toro C Library** will drive native executables on x86-64 Linux platfor
 
 There were deeper explorations in the past. I got brilliant help from Mr. **H.J.Lu** from Intel/binutils.
 
-Issues, that appears in my testings and H.J.Lu's solutions are dosumented here:
+Issues, that appears in my testings and H.J.Lu's solutions are documented here:
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=GNU-ld-for-MicrosoftCOFF-to-LinuxELF)](https://github.com/KilianKegel/GNU-ld-for-MicrosoftCOFF-to-LinuxELF#gnu-ld-for-microsoftcoff-to-linuxelf)
