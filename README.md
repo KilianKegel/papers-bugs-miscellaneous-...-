@@ -4,7 +4,7 @@
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=Using-UEFI--and-Standard-C-API-in-shell-applications-creating-MSDOS-Tools-for-UEFI)](https://github.com/tianocore/edk2-staging/tree/CdePkg/blogs/2021-11-28#using-uefi--and-standard-c-api-in-shell-applications-creating-msdos-tools-for-uefi)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=my-legacy-toolbox)](https://github.com/tianocore/edk2-staging/blob/CdePkg/blogs/2021-11-14/README.md#my-legacy-toolbox)
 
-# GNU <img src="https://en.wikipedia.org/wiki/GNU_Binutils#/media/File:Heckert_GNU_white.svg"  width="68" height="68"> linker 'ld' and Microsoft .COFF
+# GNU <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1280px-Heckert_GNU_white.svg.png"  width="68" height="68"> linker 'ld' and Microsoft .COFF
 One day **Toro C Library** will drive native executables on x86-64 Linux platforms.
 
 There were deeper explorations in the past. I got brilliant help from Mr. [**H.J.Lu**](https://en.wikipedia.org/wiki/HJ_Lu) from Intel/binutils.
