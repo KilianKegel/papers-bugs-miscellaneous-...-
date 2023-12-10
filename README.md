@@ -7,8 +7,6 @@
 # GNU <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1280px-Heckert_GNU_white.svg.png"  width="68" height="68"> linker 'ld' and Microsoft .COFF
 One day **Toro C Library** will drive native executables on x86-64 Linux platforms, translated with original Microsoft C/C++ compiler.
 
-There were deeper explorations in the past. I got brilliant help from Mr. [**H.J.Lu**](https://en.wikipedia.org/wiki/HJ_Lu) from Intel/binutils.
-
-Issues, that appear in my testings and H.J.Lu's solutions are documented here:
+There were deeper explorations in the past.
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=KilianKegel&repo=GNU-ld-for-MicrosoftCOFF-to-LinuxELF)](https://github.com/KilianKegel/GNU-ld-for-MicrosoftCOFF-to-LinuxELF#gnu-ld-for-microsoftcoff-to-linuxelf)
